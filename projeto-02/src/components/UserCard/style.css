@@ -1,0 +1,16 @@
+.container-user {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+
+}
+
+.container-user img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  align-items: center;
+  
+}

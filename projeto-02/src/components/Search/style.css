@@ -1,0 +1,19 @@
+.container-search {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.container-search input {
+  flex: 1;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.container-search button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: rgb(56, 56, 219);
+  border: 2px solid white;
+}
