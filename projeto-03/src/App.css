@@ -88,53 +88,13 @@
 
 }
 
-.content-tasks img {
-    width: 200px;
-    height: auto;
-}
-
-.container-empty {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    gap: 25px;
-    height: 400px;
-    color: #9495a5;
-
-}
-
-.content-tasks__actions {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px 24px;
-    height: 50px;
-    align-items: center;
-    border-top: 1px solid #e3e4f1;
-    
-    
-}
-
 .task-item__done {
     text-decoration-line: line-through;
     color: #d1d2da;
 }
 
-.content-tasks__actions a {
-
-    font-size: 14px;
-    font-weight: 400;
-    text-decoration: none;
-    color: #9495a5;
-
-}
-
-.content-tasks__actions div {
-    display: flex;
-    gap: 8px;
 
 
-}
 
 .task-item {
   display: flex;
